@@ -36,7 +36,7 @@ Me especializo en arquitecturas modernas (MVVM, VIPER, Clean Architecture), buen
 
 ---
 
-🏅 Certificaciones
+## 🏅 Certificaciones
 
 <a href="https://www.credly.com/badges/1546467d-28a7-4cc2-89ae-721046a02aa9/public_url" target="_blank">
   <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/>
@@ -78,7 +78,21 @@ App para explorar personajes de Rick & Morty con búsqueda y filtros.
 
 ## ☁️ Proyectos Cloud & Python
 
-*En construcción — próximamente proyectos con AWS y Python.*
+### [ServerlessUrlShortener](https://github.com/jcreyesDev/ServerlessUrlShortener)
+Acortador de URLs completamente serverless desplegado con AWS SAM. Arquitectura real en producción: API Gateway → Lambda → DynamoDB. IaC declarado en `template.yaml`, HTTP 301 redirects, conteo atómico de clicks y generación criptográficamente segura de códigos cortos.  
+`Python` `AWS SAM` `Lambda` `API Gateway` `DynamoDB` `IaC` `boto3`
+
+### [LambdaMonitorDashboard](https://github.com/jcreyesDev/LambdaMonitorDashboard)
+Dashboard CLI que extrae métricas reales de funciones Lambda desde CloudWatch — invocaciones, errores, duración promedio y throttles. Incluye 3 funciones Lambda desplegadas en AWS y reporte exportable a HTML.  
+`Python` `Lambda` `CloudWatch` `boto3` `rich` `argparse`
+
+### [S3FileManager](https://github.com/jcreyesDev/S3FileManager)
+CLI completo para gestionar archivos en S3 — upload, download, delete, listado con metadata y organización automática por tipo de archivo usando reglas YAML configurables. Incluye generación de presigned URLs para compartir archivos de forma temporal.  
+`Python` `S3` `boto3` `PyYAML` `rich` `argparse`
+
+### [AWSResourceAuditor](https://github.com/jcreyesDev/AWSResourceAuditor)
+CLI que audita una cuenta AWS: identidad via STS, listado de buckets S3 con región y metadata. Exporta reportes a JSON y CSV con output visual en terminal.  
+`Python` `STS` `S3` `boto3` `rich` `argparse`
 
 ---
 
