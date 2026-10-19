@@ -1,21 +1,21 @@
 # Hola, soy Julio César 👋
 
-**Senior iOS Developer** · Swift & SwiftUI · UIKit · 8+ años de experiencia
+**iOS Developer** · Swift & SwiftUI · UIKit · Desarrollo iOS desde 2017
 
 🏦 Banca & Fintech (BBVA, Santander, Banco Industrial)  
-📱 Apps nativas iOS desde arquitectura hasta producción  
+📱 Apps nativas iOS en producción para banca y retail  
 ☁️ Expandiéndome hacia Cloud (AWS) y Python  
-🌍 Basado en Asturias, España · 100% Remoto
+🌍 Basado en Asturias, España · Remoto / Híbrido
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Desarrollador iOS Senior con más de 8 años construyendo apps de alta exigencia para los sectores bancario, fintech y retail. He trabajado en proyectos como la app de **BBVA Argentina**, **Banco Santander Argentina** y **Banco Industrial Guatemala**, siempre en equipos multidisciplinares con metodologías ágiles.
+Desarrollador iOS desde 2017, construyendo apps para los sectores bancario, fintech y retail. He trabajado en proyectos como la app de **BBVA Argentina**, **Banco Santander Argentina** y **Banco Industrial Guatemala**, siempre en equipos multidisciplinares con metodologías ágiles.
 
-Me especializo en arquitecturas modernas (MVVM, VIPER, Clean Architecture), buenas prácticas (SOLID, BDT) y la construcción de interfaces cuidadas y componentes reutilizables con SwiftUI. Actualmente amplío mi perfil hacia **Cloud con AWS** y **Python**.
+Trabajo con arquitecturas modernas (MVVM, VIPER, Clean Architecture) y buenas prácticas (SOLID, BDT), y me interesa la construcción de interfaces cuidadas y componentes reutilizables con SwiftUI. Actualmente amplío mi perfil hacia **Cloud con AWS** y **Python**.
 
-- 🔨 Trabajo con: Swift, SwiftUI, UIKit, SwiftData, Concurrency, Combine, Snapkit, XCTest
+- 🔨 Trabajo con: Swift, SwiftUI, UIKit, Combine, SnapKit, XCTest, Quick/Nimble
 - 🏗️ Arquitecturas: MVVM · VIPER · Clean Architecture · SOLID
 - ☁️ Expandiéndome en: AWS · Python · Linux
 - 🤝 Pregúntame sobre: iOS nativo, Design Systems, Banca móvil
@@ -37,7 +37,6 @@ Me especializo en arquitecturas modernas (MVVM, VIPER, Clean Architecture), buen
 ---
 
 ## 🏅 Certificaciones
-
 <a href="https://www.credly.com/badges/1546467d-28a7-4cc2-89ae-721046a02aa9/public_url" target="_blank">
   <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/>
 </a>
@@ -53,8 +52,6 @@ Me especializo en arquitecturas modernas (MVVM, VIPER, Clean Architecture), buen
 <a href="https://www.credly.com/badges/d3ca3b55-2eee-4a12-9aaf-f5f3477ebc37/public_url" target="_blank">
   <img src="https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2 - Cisco" width="100"/>
 </a>
-
----
 
 ## 📱 Proyectos iOS
 
@@ -79,7 +76,7 @@ App para explorar personajes de Rick & Morty con búsqueda y filtros.
 ## ☁️ Proyectos Cloud & Python
 
 ### [ServerlessUrlShortener](https://github.com/jcreyesDev/ServerlessUrlShortener)
-Acortador de URLs completamente serverless desplegado con AWS SAM. Arquitectura real en producción: API Gateway → Lambda → DynamoDB. IaC declarado en `template.yaml`, HTTP 301 redirects, conteo atómico de clicks y generación criptográficamente segura de códigos cortos.  
+Acortador de URLs completamente serverless desplegado con AWS SAM. Arquitectura: API Gateway → Lambda → DynamoDB. IaC declarado en `template.yaml`, HTTP 301 redirects, conteo atómico de clicks y generación criptográficamente segura de códigos cortos.  
 `Python` `AWS SAM` `Lambda` `API Gateway` `DynamoDB` `IaC` `boto3`
 
 ### [LambdaMonitorDashboard](https://github.com/jcreyesDev/LambdaMonitorDashboard)
